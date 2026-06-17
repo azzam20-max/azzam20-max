@@ -30,7 +30,7 @@ class Developer:
             "ml"       : ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
             "crypto"   : ["Web3.py", "Solidity", "Ethers.js", "Smart Contract"],
         }
-        self.currently   = "Internship + Final Project: Deep Learning 🎯"
+        self.currently   = "Internship + Tugas Akhir: Deep Learning for Medical Imaging 🎯"
         self.fun_fact    = "Saya debug dengan console.log dan tidak malu 😄"
 
     def say_hi(self):
@@ -76,8 +76,8 @@ me.say_hi()
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🚗 **Vehicle Overdimension Detection** | Multi-camera deep learning system untuk deteksi pelanggaran kendaraan | Python, OpenCV, YOLO |
-| 🧠 **[Your ML Project]** | Deskripsi singkat proyek ML kamu | TensorFlow / PyTorch |
-| 📊 **[Your Data Project]** | Deskripsi singkat proyek data kamu | Scikit-learn, Pandas |
+| 🧠 **Brain Tumor MRI Classification** | Klasifikasi tumor otak pada MRI 2D menggunakan EfficientNet-B0 dengan Class-Wise Temperature Scaling & Test-Time Augmentation — diterima di IEEE ICADEIS 2026 | Python, TensorFlow, EfficientNet |
+| 🌐 **NLP Text Classification** | Eksplorasi model NLP untuk klasifikasi teks Bahasa Indonesia menggunakan pendekatan deep learning | PyTorch, HuggingFace, Scikit-learn |
 
 ---
 
@@ -85,9 +85,9 @@ me.say_hi()
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 📜 **[Smart Contract]** | Deskripsi kontrak pintar yang kamu buat | Solidity, Hardhat |
-| 🪙 **[Token / DeFi App]** | Deskripsi proyek crypto kamu | Web3.py, Ethers.js |
-| 🔗 **[Blockchain App]** | Deskripsi dApp atau blockchain project | Ethereum / BSC |
+| 💸 **Tipyu** | Platform tipping untuk kreator konten berbasis blockchain — memungkinkan dukungan finansial langsung dari audience ke kreator | Web3.py, Ethers.js, Smart Contract |
+| 🏫 **Pesantren Cashless Payment** | Sistem pembayaran cashless untuk pondok pesantren — menggantikan transaksi tunai dengan solusi berbasis blockchain | Solidity, Hardhat, Smart Contract |
+| 🌟 **Stellar Instaward Explorer** | Eksplorasi ekosistem Stellar blockchain untuk grant & developer program, termasuk studi mekanisme token reward | Stellar SDK, Web3 |
 
 ---
 
@@ -132,9 +132,9 @@ me.say_hi()
 
 - 🏢 **Internship** — belajar banyak hal baru di dunia nyata
 - 🎓 **Telkom University** — S-1 Informatika Bandung Angkatan 2022
-- 🚗 **Final Project** — Multi-Camera Vehicle Overdimension Detection (Deep Learning)
+- 🧠 **Tugas Akhir** — Brain Tumor MRI Classification dengan EfficientNet-B0 + CWTS + TTA (IEEE ICADEIS 2026)
 - 🔗 **Exploring** — Blockchain, Smart Contract & DeFi development
-- 🎯 **Goal 2025** — Contribute ke open source & deploy ML model ke production
+- 🎯 **Goal 2026** — Contribute ke open source & deploy ML model ke production
 
 ---
 
