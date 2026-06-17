@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Abdurrahman+Azzam+👋;Fullstack+Web+Developer+%7C+ML+Engineer;Python+%7C+React+%7C+Node.js+%7C+Java;Crypto+Dev+%26+Deep+Learning+Explorer+🚀;Mahasiswa+Telkom+University+Bandung+🎓)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Abdurrahman+Azzam+👋;Fullstack+Web+Developer+%7C+ML+Engineer;Python+%7C+React+%7C+Node.js+%7C+Java;Crypto+Dev+%26+Deep+Learning+Explorer+🚀;Mahasiswa+Telkom+University+tangerang+🎓)](https://git.io/typing-svg)
 
 <br/>
 
@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Internship_🔥-6C63FF?style=for-the-badge)
 ![ML](https://img.shields.io/badge/Machine_Learning-Enthusiast_🤖-FF6584?style=for-the-badge)
 ![Crypto](https://img.shields.io/badge/Crypto-Dev_₿-F7931A?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍-Bandung,_Indonesia-43C6AC?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-tangerang,_Indonesia-43C6AC?style=for-the-badge)
 
 </div>
 
@@ -22,7 +22,7 @@ class Developer:
     def __init__(self):
         self.name        = "Abdurrahman Azzam"
         self.username    = "azzam20-max"
-        self.university  = "Telkom University Bandung — Informatika '22"
+        self.university  = "Telkom University tangerang — Informatika '22"
         self.role        = ["Fullstack Developer", "ML Engineer", "Crypto Dev"]
         self.stack       = {
             "frontend" : ["React", "JavaScript", "TypeScript", "Tailwind"],
@@ -128,7 +128,7 @@ me.say_hi()
 ## 🌱 Currently
 
 - 🏢 **Internship** — belajar banyak hal baru di dunia nyata
-- 🎓 **Telkom University** — S-1 Informatika Bandung Angkatan 2022
+- 🎓 **Telkom University** — S-1 Informatika tangerang Angkatan 2022
 - 🧠 **Final Project** — Brain Tumor MRI Classification with EfficientNet-B0 & Deep Learning
 - 🔗 **Exploring** — Blockchain, Smart Contract & DeFi development
 - 🎯 **Goal 2025** — Contribute ke open source & deploy ML model ke production
