@@ -19,8 +19,8 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name       = "YOUR_NAME"
-        self.username   = "YOUR_USERNAME"
+        self.name       = "Azzam"
+        self.username   = "azzam20-max"
         self.location   = "Indonesia 🇮🇩"
         self.role       = ["Fullstack Developer", "Mahasiswa", "Intern 🔥"]
         self.stack      = ["Python", "React", "Node.js", "Java/Kotlin"]
